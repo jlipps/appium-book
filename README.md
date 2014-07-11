@@ -31,12 +31,18 @@ kinds of information the book will include.
 
 Here are the instructions for turning the source into a PDF you can read.
 
-### System Setup
+### System/Project Setup
 
 0. Install a TeX Live distribution of some kind, e.g.:
-
+    ```
     brew cask install mactex
+    ```
+0. Get a Python virtualenv or use your system env, and install deps:
+    ```
+    pip install -r lib/requirements.txt
+    ```
 
 ### Build Instructions
 
-0. TBD
+0. Run `./build.sh`
+0. Look inside the `build/` directory for `book.pdf`
