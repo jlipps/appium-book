@@ -1,10 +1,10 @@
-Appium: Mobile Automation Made Awesome
+Appium Book
 =====
 
-This is the public repository for my forthcoming Appium book. I'm
-writing/developing the book here on GitHub so that anyone can read it, track
-its progress, clone the repo, and create their own PDF versions of the book for
-their own personal use.
+This is the public repository for my forthcoming Appium book, tentatively
+titled *Appium: Mobile Automation Made Awesome*. I'm writing/developing the
+book here on GitHub so that anyone can read it, track its progress, clone the
+repo, and create their own PDF versions of the book for their own personal use.
 
 ## The Story
 
