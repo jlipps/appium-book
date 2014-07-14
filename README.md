@@ -33,7 +33,8 @@ Here are the instructions for turning the source into a PDF you can read.
 
 ### System/Project Setup
 
-0. Install a TeX Live distribution of some kind, e.g.:
+0. Install a [TeX Live](https://tug.org/mactex/) distribution of some kind,
+   e.g.:
     ```
     brew cask install mactex
     ```
