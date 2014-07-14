@@ -13,7 +13,6 @@ Book Outline
 0. Why Appium?
     0. Philosophy
     0. Alternatives
-0. Evolution of Selenium
 0. History of Appium
 0. Architecture of Appium
 0. Getting set up
