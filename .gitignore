@@ -2,3 +2,4 @@ build/
 *.dvi
 *.aux
 *.log
+*.pyg

@@ -2,4 +2,7 @@
 set -e
 
 mkdir -p build
-pdflatex -output-directory build -output-format pdf -shell-escape book/main.tex book.pdf
+cd book
+pdflatex -shell-escape main.tex
+mv main.pdf ../build/book.pdf
+cd ..
