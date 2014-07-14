@@ -45,5 +45,5 @@ Here are the instructions for turning the source into a PDF you can read.
 
 ### Build Instructions
 
-0. Run `./build.sh`
+0. Run `make`
 0. Look inside the `build/` directory for `book.pdf`
